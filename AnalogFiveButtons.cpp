@@ -2,6 +2,7 @@
   AnalogFiveButtons class for the analog 5 keys panels
   Version 1.0
   2015 - DataMiner.hu, Gábor Kiss
+  V 1.0
 */
 
 
