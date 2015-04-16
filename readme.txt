@@ -1,4 +1,4 @@
-# AnalogFiveButtons - Kiss Gábor
+# AnalogFiveButtons - Kiss Gábor (kiss-gabor@outlook.hu)
 
 Library for the Arduino analog five keys panels
 -----------------------------------------------
