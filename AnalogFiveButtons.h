@@ -5,6 +5,10 @@
   V 1.0
 */
 
+// ensure this library description is only included once
+#ifndef A5B_h
+#define A5B_h
+
 #include <inttypes.h>
 
 #define SW1 	1
@@ -60,3 +64,5 @@ class AnalogFiveButtons
     void init(uint8_t , uint8_t , int , int , int , int , int );
     void evalButton();
 };
+
+#endif
