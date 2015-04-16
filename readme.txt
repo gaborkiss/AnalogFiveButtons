@@ -11,7 +11,7 @@ Two arduino modules are tested:
 
 Usage
 -----
-Only install the files in your Arduino library directory.
+Only install the files in your Arduino library directory. (\libraries\AnalogFiveButtons)
 
 You can include it in your sketch:
 #include <AnalogFiveButtons.h>
